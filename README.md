@@ -1,4 +1,5 @@
 # Data analytic projects, scripts, apps
+# Date June 9, 2020
 
 10 python and jupyter files (data files included):
 1. Current_Directory_Info.py
